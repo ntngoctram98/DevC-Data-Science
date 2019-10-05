@@ -1,0 +1,25 @@
+- vectoricalize
+- onehot decode
+- Mean: trung binh cong
+- Mode: xuat hien nhieu nhat
+- Median: trung vi
+
+skewness:
+- 0: symetric
+- >0: lech trai
+- <0: lech phair
+
+
+ = (n - 1)(n - 2) / n * Zj = 1 -> n (xj - x(vector))^3 / e
+
+varian
+- do lech chuan
+- phuong sai
+
+standard devilation: square root(phuong sai)
+
+normal distribution
+
+guassian
+
+covariance

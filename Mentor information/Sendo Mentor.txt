@@ -1,0 +1,21 @@
+Sendo Requirement:
+
+Recommendation system
+
+1. Scale
+2. Cold Start
+3. Sparsity
+- 7 millions rows
+- 700k
++ Product Id
++ User Id
++ Categories
++ URL
+
+- Implicit
+
+=> Unclear data
+
+- Everything is marketplace, không có đối tác bán hàng
+
+Goal: Increase User
